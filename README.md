@@ -3,7 +3,7 @@
 
 - 🌱 Estou estudando **ReactJS**
 
-- 👨‍💻 Todos meus projetos principais estão em [https://mvitor.dev/](https://mvitor.dev/)
+- 👨‍💻 Todos meus projetos principais estão em **[https://mvitor.dev/](https://mvitor.dev/)**
 
 - 📫 Aqui você entra em contato comigo **mluizvitor@gmail.com**
 
