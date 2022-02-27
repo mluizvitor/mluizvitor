@@ -7,17 +7,23 @@
 
 - 📫 Aqui você entra em contato comigo **mluizvitor@gmail.com**
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://twitter.com/mluizvitor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mluizvitor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mluizvitor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mluizvitor" height="30" width="40" /></a>
-<a href="https://instagram.com/mluizvitor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mluizvitor" height="30" width="40" /></a>
+### Front-end
+<p>  
+  <img style="margin: 10px" src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img style='margin: 10px' src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="SyledComponents" />
 </p>
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Ferramentas
+<p>
+  <img style="margin: 10px" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img style="margin: 10px" src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img style="margin: 10px" src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mluizvitor&show_icons=true&theme=gruvbox&locale=pt-br&layout=compact&border_radius=8&card_width=445" alt="mluizvitor" /></p>
+<img style="margin-top: 24px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mluizvitor&show_icons=true&theme=gruvbox&locale=pt-br&layout=compact&border_radius=8&card_width=445" alt="mluizvitor" />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mluizvitor&show_icons=true&theme=gruvbox&locale=pt-br&border_radius=8" alt="mluizvitor" /></p>
-
+<img style="margin-top: 24px" src="https://github-readme-stats.vercel.app/api?username=mluizvitor&show_icons=true&theme=gruvbox&locale=pt-br&border_radius=8" alt="mluizvitor" />
+</div>
