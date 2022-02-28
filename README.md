@@ -44,7 +44,7 @@
 </p>
 
 ## Estatísticas
-<img style="margin-top: 24px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mluizvitor&show_icons=true&theme=gruvbox&locale=pt-br&layout=compact&border_radius=8&card_width=445" alt="mluizvitor" />
+<img style="margin-top: 24px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mluizvitor&show_icons=true&theme=tokyonight&locale=pt-br&layout=compact&border_radius=0&card_width=445" alt="mluizvitor" />
 
-<img style="margin-top: 24px" src="https://github-readme-stats.vercel.app/api?username=mluizvitor&show_icons=true&theme=gruvbox&locale=pt-br&border_radius=8" alt="mluizvitor" />
+<img style="margin-top: 24px" src="https://github-readme-stats.vercel.app/api?username=mluizvitor&show_icons=true&theme=tokyonight&locale=pt-br&border_radius=0" alt="mluizvitor" />
 </div>
