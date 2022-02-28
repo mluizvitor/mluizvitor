@@ -18,11 +18,27 @@
 
 ### Ferramentas
 <p>
-  <img style="margin: 10px" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img style="margin: 10px" src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img style="margin: 10px" src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material-design&logoColor=white" alt="Material Design"/>
+  <img style="margin: 10px" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+### Minhas redes
+<p>
+  <a href="https://linkedin.com/in/mluizvitor" target="_blank">
+    <img style="margin: 10px" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+  </a>
+  
+  <a href="https://t.me/mluizvitor" target="_blank">
+    <img style="margin: 10px" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  
+  <a href="https://instagram.com/mluizvitor" target="_blank">
+    <img style="margin: 10px" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+## Estatísticas
 <img style="margin-top: 24px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mluizvitor&show_icons=true&theme=gruvbox&locale=pt-br&layout=compact&border_radius=8&card_width=445" alt="mluizvitor" />
 
 <img style="margin-top: 24px" src="https://github-readme-stats.vercel.app/api?username=mluizvitor&show_icons=true&theme=gruvbox&locale=pt-br&border_radius=8" alt="mluizvitor" />
